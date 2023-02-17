@@ -49,6 +49,7 @@ const Image = styled.div`
   position: relative;
   .bg_image{
     width: 100%;
+    border-radius: 8px;
   }
 `;
 
